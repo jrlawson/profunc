@@ -1,0 +1,3 @@
+# We want to ignore compiled Python files for purposes of revision control. 
+# Let them be created at runtime, but don't revision control them.
+*.pyc
